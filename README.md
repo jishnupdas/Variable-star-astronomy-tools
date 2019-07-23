@@ -7,4 +7,5 @@ into 3 columns of equal lengths(accepted by Wilson devinney code
 
 
 Usage : in commandline; 
-python3 mag2light.py [yourfile/s]
+
+    python3 mag2light.py [yourfile/s]
